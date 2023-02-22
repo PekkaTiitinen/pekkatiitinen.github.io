@@ -1092,7 +1092,20 @@ ul.imp-links li a {
 }
 /* ===== End footer ===== */
 
-
+.cont{
+	color: #FFF;
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: 0 0;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 /* ===== Begin page header ===== */
 .page-header {
 	margin: 0 0 60px 0;
